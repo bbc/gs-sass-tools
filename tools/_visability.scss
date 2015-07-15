@@ -1,0 +1,23 @@
+/*------------------------------------*\
+    # VISABILITY
+\*------------------------------------*/
+
+/**
+ * Hide only visually, but have it available for screen readers.
+ *
+ * We've avoided using a placeholder and extends and opted
+ * for the use of a mixin to avoid any false relationships between CSS selectors:
+ * http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
+ */
+@mixin vh() {
+    position: absolute;
+
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+
+    clip: rect(0 0 0 0);
+}
