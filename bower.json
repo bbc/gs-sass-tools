@@ -20,5 +20,10 @@
     "../",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "gel-settings": "https://github.com/bbc/gel-settings.git#~0.4.0",
+    "gel-tools": "https://github.com/bbc/gel-tools.git#~0.4.0",
+    "sass-mq": "~3.2.2"
+  }
 }
