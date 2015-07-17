@@ -7,9 +7,9 @@
 @import 'settings/colours';
 
 // GEL foundations
-@import '../bower_components/gel-settings/globals';
-@import '../bower_components/gel-tools/rem';
-@import '../bower_components/gel-tools/math';
+@import '../gel-settings/globals';
+@import '../gel-tools/rem';
+@import '../gel-tools/math';
 
 // External dependancies
 @import '../bower_components/sass-mq/mq';
