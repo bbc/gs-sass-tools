@@ -1,0 +1,10 @@
+///*------------------------------------*\
+//    # THEME
+//\*------------------------------------*/
+
+// Output anything theming styles wrapped within a conditional class
+@mixin theme($theme) {
+    .sp-t-#{$theme} & {
+        @content;
+    }
+}
