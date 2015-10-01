@@ -9,9 +9,10 @@
 @import 'settings/news-colours';
 
 // GEL foundations
-@import '../gel-settings/globals';
-@import '../gel-tools/rem';
-@import '../gel-tools/math';
+@import '../gel-sass-tools/sass-tools';
+// @import '../gel-settings/globals';
+// @import '../gel-tools/rem';
+// @import '../gel-tools/math';
 
 // External dependancies
 @import '../sass-mq/mq';
