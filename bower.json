@@ -1,16 +1,19 @@
 {
-  "name": "sp-sass-tools",
+  "name": "gs-sass-tools",
   "version": "0.7.1",
-  "homepage": "https://github.com/bbc/sp-sass-tools",
+  "homepage": "https://github.com/bbc/gs-sass-tools",
   "authors": [
     "Shaun Bent <shaun.bent@bbc.co.uk>"
   ],
-  "description": "A collection of Sass Settings & Tools used by Sport & Live components",
-  "main": "_sp-sass-tools.scss",
+  "description": "A collection of Sass Settings & Tools used by Sport, Live & Grandstand components",
+  "main": "_sass-tools.scss",
   "keywords": [
     "Sass",
     "Tools",
-    "Settings"
+    "Settings",
+    "Grandstand",
+    "Sport",
+    "Live"
   ],
   "license": "MIT",
   "ignore": [
@@ -22,8 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "gel-settings": "git@github.com:bbc/gel-settings.git#~0.4.0",
-    "gel-tools": "git@github.com:bbc/gel-tools.git#~0.4.0",
-    "sass-mq": "~3.2.2"
+    "gel-sass-tools": "git@github.com:bbc/gel-sass-tools.git#^1.0.0"
   }
 }
