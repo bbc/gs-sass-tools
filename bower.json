@@ -25,6 +25,8 @@
     "tests"
   ],
   "dependencies": {
-    "gel-sass-tools": "git@github.com:bbc/gel-sass-tools.git#^1.0.0"
+    "gel-sass-tools": "https://github.com/bbc/gel-sass-tools.git#^1.0.0",
+    "gel-typography": "https://github.com/bbc/gel-typography.git#1.0.0-rc",
+    "gel-grid": "https://github.com/bbc/gel-grid.git#v1"
   }
 }
