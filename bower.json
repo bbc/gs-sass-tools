@@ -1,6 +1,6 @@
 {
   "name": "gs-sass-tools",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "homepage": "https://github.com/bbc/gs-sass-tools",
   "authors": [
     "Shaun Bent <shaun.bent@bbc.co.uk>"
@@ -25,8 +25,8 @@
     "tests"
   ],
   "dependencies": {
-    "gel-sass-tools": "https://github.com/bbc/gel-sass-tools.git#^1.0.0",
-    "gel-typography": "https://github.com/bbc/gel-typography.git#^1.0.0",
-    "gel-grid": "https://github.com/bbc/gel-grid.git#v1"
+    "gel-sass-tools": "git@github.com:bbc/gel-sass-tools.git#^1.0.0",
+    "gel-typography": "git@github.com:bbc/gel-typography.git#^1.0.0",
+    "gel-grid": "git@github.com:bbc/gel-grid.git#v1"
   }
 }
