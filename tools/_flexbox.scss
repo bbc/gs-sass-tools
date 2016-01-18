@@ -1,0 +1,111 @@
+//*------------------------------------*\
+//    #FLEXBOX
+//*------------------------------------*/
+
+// `flex` prefixer.
+//
+// @param {Number}          $flex-grow   (0)
+// @param {Number}          $flex-shring (1)
+// @param {Number | String} $flex-basis  (auto)
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex flex on MDN
+//
+@mixin flex($flex-grow: 0, $flex-shrink: 1, $flex-basis: auto) {
+    -moz-box-flex: $flex-grow;
+    -webkit-flex: $flex-grow $flex-shrink $flex-basis;
+    -ms-flex: $flex-grow $flex-shrink $flex-basis;
+    flex: $flex-grow $flex-shrink $flex-basis;
+}
+
+
+// `flex-direction` prefixer.
+//
+// @param {String} $direction row | row-reverse | column | column-reverse
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction flex-direction on MDN
+//
+@mixin flex-direction($direction) {
+    -webkit-flex-direction: $direction;
+    -ms-flex-direction: $direction;
+    flex-direction: $direction;
+}
+
+
+// `flex-basis` prefixer.
+//
+// @param {Number | String} $value (auto)
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis flex-basis on MDN
+//
+@mixin flex-basis($value: auto) {
+    -webkit-flex-basis: $value;
+    -moz-flex-basis: $value;
+    -ms-flex-preferred-size: $value;
+    flex-basis: $value;
+}
+
+
+// `display: flex` prefixer.
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex flex on MDN
+//
+@mixin flex-display {
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+
+// `flex-grow` prefixer.
+//
+// @param {Number} $value (0)
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow flex-grow on MDN
+//
+@mixin flex-grow($value: 0) {
+    -webkit-flex-grow: $value;
+    -moz-flex-grow: $value;
+    -ms-flex-positive: $value;
+    flex-grow: $value;
+}
+
+
+// `flex-wrap` prefixer.
+//
+// @param {String} $wrap nowrap | wrap | wrap-reverse
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap on MDN
+//
+@mixin flex-wrap($wrap: nowrap) {
+    -webkit-flex-wrap: $wrap;
+    -moz-flex-wrap: $wrap;
+    -ms-flex-wrap: $wrap;
+    flex-wrap: $wrap;
+}
+
+
+// `flex-order` prefixer.
+//
+// @param {String} $value (0)
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/flex-order on MDN
+//
+@mixin flex-order($value: 0) {
+    -ms-flex-order: $value;
+    -webkit-order: $value;
+    order: $value;
+}
+
+
+// `justify-content` prefixer.
+//
+// @param {String} $justify flex-start | flex-end | center | space-between | space-around
+//
+// https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content justify-content on MDN
+//
+@mixin flex-justify($justify) {
+    -webkit-justify-content: $justify;
+    -moz-justify-content: $justify;
+    justify-content: $justify;
+}
