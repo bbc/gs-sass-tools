@@ -41,10 +41,10 @@ For specific details on any of these libraries please refer to their individual 
 
 Settings are collections of globally available variables which can be used in your apps Sass.
 
-**Global Variables**
+### Global Variables
 The global variables are primarily formed of the [GEL Sass Tools](https://github.com/bbc/gel-sass-tools).
 
-**Colour Palettes**
+### Colour Palettes
 A number of products colour palettes are available as Sass variables:
 
 - [Generic Colours](https://github.com/bbc/gs-sass-tools/blob/master/settings/_generic-colours.scss)
@@ -54,7 +54,12 @@ A number of products colour palettes are available as Sass variables:
 
 ## Tools
 
+A number of Sass Mixins & Functions are available:
 
+- [Clearfix](https://github.com/bbc/gs-sass-tools/blob/master/tools/_clearfix.scss) - A simple `clearfix` available as a mixin
+- [Visibility](https://github.com/bbc/gs-sass-tools/blob/master/tools/_visability.scss) - A mixin hide content visually, but have it available for screen readers.
+- [Flexbox](https://github.com/bbc/gs-sass-tools/blob/master/tools/_flexbox.scss) - A collection of `flexbox` mixins
+- [Theme](https://github.com/bbc/gs-sass-tools/blob/master/tools/_theme.scss) - A mixin to output styles scoped in a theming class
 
 ## Why Grandstand?!?
 
