@@ -39,7 +39,22 @@ For specific details on any of these libraries please refer to their individual 
 
 ## Settings
 
+Settings are collections of globally available variables which can be used in your apps Sass.
+
+**Global Variables**
+The global variables are primarily formed of the [GEL Sass Tools](https://github.com/bbc/gel-sass-tools).
+
+**Colour Palettes**
+A number of products colour palettes are available as Sass variables:
+
+- [Generic Colours](https://github.com/bbc/gs-sass-tools/blob/master/settings/_generic-colours.scss)
+- [Sport](https://github.com/bbc/gs-sass-tools/blob/master/settings/_sport-colours.scss)
+- [News](https://github.com/bbc/gs-sass-tools/blob/master/settings/_news-colours.scss)
+- [MyBBC](https://github.com/bbc/gs-sass-tools/blob/master/settings/_mybbc-colours.scss)
+
 ## Tools
+
+
 
 ## Why Grandstand?!?
 
