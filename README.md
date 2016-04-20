@@ -43,4 +43,4 @@ For specific details on any of these libraries please refer to their individual 
 
 ## Why Grandstand?!?
 
-This framework is named after Grandstand, a British television sport programme. Broadcast between 1958 and 2007, it was one of the BBC's longest running sports shows, alongside BBC Sports Personality of the Year.
+This framework is named after [Grandstand](https://www.youtube.com/watch?v=HLHMxFGqhIs), a British television sport programme. Broadcast between 1958 and 2007, it was one of the BBC's longest running sports shows, alongside BBC Sports Personality of the Year.
