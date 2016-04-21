@@ -1,5 +1,5 @@
 ///*------------------------------------*\
-//    # BBC GRANDSTAND SASS TOOLS
+//    # GRANDSTAND SASS TOOLS
 //\*------------------------------------*/
 
 // Settings
@@ -10,10 +10,10 @@
 @import 'settings/news-colours';
 
 // GEL tools
-@import '../gel-sass-tools/sass-tools';
+@import 'node_modules/gel-sass-tools/sass-tools';
 
 // External dependancies
-@import '../sass-mq/mq';
+@import 'node_modules/sass-mq/mq';
 
 // Our tools
 @import 'tools/clearfix';
@@ -22,5 +22,5 @@
 @import 'tools/visability';
 
 // GEL foundations
-@import '../gel-typography/typography';
-@import '../gel-grid/grid';
+@import 'node_modules/gel-typography/typography';
+@import 'node_modules/gel-grid/grid';
