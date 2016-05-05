@@ -15,7 +15,7 @@ This library is built and maintained by the BBC Sport team and used by the [Gran
 Grandstand Sass Tools can be installed using Bower:
 
 ```bash
-$ bower install --save git@github.com:bbc/gs-sass-tools.git
+$ bower install --save gs-sass-tools
 ```
 
 ```sass
