@@ -1,11 +1,11 @@
 {
   "name": "gs-sass-tools",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "homepage": "https://github.com/bbc/gs-sass-tools",
   "authors": [
     "Shaun Bent <shaun.bent@bbc.co.uk>"
   ],
-  "description": "A collection of Sass Settings & Tools used by Sport, Live & Grandstand components",
+  "description": "A collection of Sass Settings & Tools used by Grandstand",
   "main": "_sass-tools.scss",
   "keywords": [
     "Sass",
@@ -25,8 +25,8 @@
     "tests"
   ],
   "dependencies": {
-    "gel-sass-tools": "git@github.com:bbc/gel-sass-tools.git#^1.0.0",
-    "gel-typography": "git@github.com:bbc/gel-typography.git#^2.0.0",
-    "gel-grid": "git@github.com:bbc/gel-grid.git#v1"
+    "gel-sass-tools": "^1.0.0",
+    "gel-typography": "^2.0.0",
+    "gel-grid": "^1.0.0"
   }
 }
