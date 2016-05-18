@@ -28,13 +28,21 @@ $nw-c-kingfisher-dark: #106078;
 $nw-c-newsbeat: #4D2C7A;
 $nw-c-oat: #F2EFEC;
 $nw-c-postbox: #BB1919;
-$nw-c-rhino: #5A5A5A; /* summary text */
+$nw-c-rhino: #5A5A5A;
 $nw-c-ruby: #990000;
 $nw-c-stone: #990000;
-$nw-c-stone-dark: #7B756F; /* Seperator line */
-$nw-c-storm: #404040; /* body text */
+$nw-c-stone-dark: #7B756F;
+$nw-c-storm: #404040;
 $nw-c-white: #ffffff;
 
-$nw-c-defualt-link: $nw-c-ebon;
-$nw-c-defualt-hover-and-focus: $nw-c-kingfisher;
-$nw-c-defualt-visited: $nw-c-stone-dark;
+/* Links */
+$nw-c-default-link: $nw-c-ebon;
+$nw-c-default-hover-and-focus: $nw-c-kingfisher;
+$nw-c-default-visited: $nw-c-stone-dark;
+
+/* Text */
+$nw-c-body-copy: $nw-c-storm;
+$nw-c-summary-text: $nw-c-rhino;
+
+/* Lines */
+$nw-c-seperator-line: $nw-c-stone-dark;
