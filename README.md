@@ -1,14 +1,14 @@
 <h1 align="center">Grandstand Sass Tools</h1>
 <p align="center">
     A collection of common Sass variables, functions and mixins.<br />
-    Forms part of <a href="http://bbc.github.io/bbc-grandstand" target="_blank"><b>BBC Grandstand</b></a>
+    Forms part of <a href="http://bbc.github.io/grandstand" target="_blank"><b>BBC Grandstand</b></a>
 </p>
 
 ## What is this?
 
 Grandstand Sass Tools is a collection of common Sass variables, functions and mixins.
 
-This library is built and maintained by the BBC Sport team and used by the [Grandstand Framework](http://bbc.github.io/bbc-grandstand/) and various components on BBC Sport website and within the BBC Live product.
+This library is built and maintained by the BBC Sport team and used by the [Grandstand Framework](http://bbc.github.io/grandstand/) and various components on BBC Sport website and within the BBC Live product.
 
 ## Installation
 
