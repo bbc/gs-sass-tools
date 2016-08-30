@@ -8,5 +8,10 @@
         content: "";
         display: table;
         clear: both;
+
+        // This prevents the clearfix from having dimensions in a flexbox layout.
+        // Older browsers which don't support the flex standard will ignore this
+        // and use `display: table` instead.
+        display: inline-flex;
     }
 }
