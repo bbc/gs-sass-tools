@@ -3,10 +3,16 @@
 //\*------------------------------------*/
 
 // Micro clearfix, as per: css-101.org/articles/clearfix/latest-new-clearfix-so-far.php
+//
+// 1. This prevents the clearfix from having dimensions in a flexbox layout.
+//    Older browsers which don't support the flex standard will ignore this
+//    and use `display: table` instead.
 @mixin clearfix() {
     &:after {
         content: "";
         display: table;
         clear: both;
+
+        display: inline-flex; /* [1] */
     }
 }
