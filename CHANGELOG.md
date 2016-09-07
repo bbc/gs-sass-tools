@@ -1,8 +1,5 @@
 Record any changes that are made to the module
 
-## 4.1.8
-- Remove extra spacing from @clearfix on flex layouts
-
 ## 4.1.7
 - Update News keyline colour naming and value
 
