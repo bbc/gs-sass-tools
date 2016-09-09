@@ -1,5 +1,8 @@
 Record any changes that are made to the module
 
+## 4.1.9
+- Add legacy colour names for the News navigation
+
 ## 4.1.7
 - Update News keyline colour naming and value
 
