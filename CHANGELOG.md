@@ -1,15 +1,5 @@
 <h1 align="center">GS Sass Tools</h1>
 
-## 4.1.9
-- Add legacy colour names for the News navigation
-
-## 4.1.7
-- Update News keyline colour naming and value
-
-## 4.1.6
-- Rename News link colour names
-- Add correct News colour reference for stone
-=======
 | Version | Description |
 |---------|-------------|
 | 4.1.14 | Add colours needed by the News Navigation (e.g. trueblack === #000) |
