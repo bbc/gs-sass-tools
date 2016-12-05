@@ -2,6 +2,7 @@
 
 | Version | Description |
 |---------|-------------|
+| 4.1.13 | Add new colour orange for UKChina Brand |
 | 4.1.12 | Add new colour silver for News |
 | 4.1.11 | Add new colours for ebon (obit) theme on News |
 | 4.1.10 | Add News vertical line colour name and value |
