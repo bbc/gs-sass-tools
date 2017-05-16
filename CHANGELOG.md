@@ -2,6 +2,7 @@
 
 | Version | Description |
 |---------|-------------|
+| 4.1.15 | Add colours needed by Newsround articles (e.g. teal === #50BAB3) |
 | 4.1.14 | Add colours needed by the News Navigation (e.g. trueblack === #000) |
 | 4.1.13 | Add new colour orange for UKChina Brand |
 | 4.1.12 | Add new colour silver for News |
