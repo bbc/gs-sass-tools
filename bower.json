@@ -1,6 +1,6 @@
 {
   "name": "gs-sass-tools",
-  "version": "4.1.16",
+  "version": "5.0.0",
   "homepage": "https://github.com/bbc/gs-sass-tools",
   "authors": [
     "Shaun Bent <shaun.bent@bbc.co.uk>"
@@ -27,6 +27,6 @@
   "dependencies": {
     "gel-sass-tools": "^1.0.0",
     "gel-typography": "^2.0.0",
-    "gel-grid": "^1.0.0"
+    "gel-grid": "^3.0.0"
   }
 }
