@@ -2,7 +2,9 @@
 
 | Version | Description |
 |---------|-------------|
-| 6.0.0 | Update Sport colours | 
+
+| 5.0.3 | Update Sport colours | 
+| 5.0.1 | Update News colour value for 'stone dark' | 
 | 5.0.0 | Update gel-grid dependency to latest version | 
 | 4.1.16 | Update colors needed by Newsround articles (i.e. teal === #36D2C5) |
 | 4.1.15 | Add colours needed by Newsround articles (e.g. teal === #50BAB3) |
