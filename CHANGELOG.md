@@ -2,7 +2,6 @@
 
 | Version | Description |
 |---------|-------------|
-
 | 5.0.3 | Update Sport colours | 
 | 5.0.2 | Add News colour 'puddle' | 
 | 5.0.1 | Update News colour value for 'stone dark' | 
