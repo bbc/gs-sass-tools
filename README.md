@@ -49,6 +49,7 @@ A number of products colour palettes are available as Sass variables:
 - [Sport](https://github.com/bbc/gs-sass-tools/blob/master/settings/_sport-colours.scss)
 - [News](https://github.com/bbc/gs-sass-tools/blob/master/settings/_news-colours.scss)
 - [MyBBC](https://github.com/bbc/gs-sass-tools/blob/master/settings/_mybbc-colours.scss)
+- [Newsround](https://github.com/bbc/gs-sass-tools/blob/master/settings/_newsround-colours.scss)
 
 ## Tools
 
