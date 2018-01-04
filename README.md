@@ -12,15 +12,15 @@ This library is built and maintained by the BBC Sport team and used by the [Gran
 
 ## Installation
 
-Grandstand Sass Tools can be installed using Bower:
+Grandstand Sass Tools can be installed using NPM:
 
 ```bash
-$ bower install --save gs-sass-tools
+$ npm install --save gs-sass-tools
 ```
 
 ```sass
 // your-app/main.scss
-@import 'bower_components/gs-sass-tools/sass-tools';
+@import 'node_modules/gs-sass-tools/sass-tools';
 ```
 
 ## GEL Foundations
