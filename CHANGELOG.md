@@ -2,12 +2,13 @@
 
 | Version | Description |
 |---------|-------------|
-| 5.0.5 | Add full palette of Newsround colours | 
-| 5.0.4 | Update Share tools colours and add reactions | 
-| 5.0.3 | Update Sport colours | 
-| 5.0.2 | Add News colour 'puddle' | 
-| 5.0.1 | Update News colour value for 'stone dark' | 
-| 5.0.0 | Update gel-grid dependency to latest version | 
+| 6.0.0 | Remove Bower and add package.json for NPM |
+| 5.0.5 | Add full palette of Newsround colours |
+| 5.0.4 | Update Share tools colours and add reactions |
+| 5.0.3 | Update Sport colours |
+| 5.0.2 | Add News colour 'puddle' |
+| 5.0.1 | Update News colour value for 'stone dark' |
+| 5.0.0 | Update gel-grid dependency to latest version |
 | 4.1.16 | Update colors needed by Newsround articles (i.e. teal === #36D2C5) |
 | 4.1.15 | Add colours needed by Newsround articles (e.g. teal === #50BAB3) |
 | 4.1.14 | Add colours needed by the News Navigation (e.g. trueblack === #000) |
