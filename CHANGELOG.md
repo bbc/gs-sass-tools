@@ -2,6 +2,7 @@
 
 | Version | Description |
 |---------|-------------|
+| 5.0.6 | Added an additional colour to the Newsround colours | 
 | 5.0.5 | Add full palette of Newsround colours | 
 | 5.0.4 | Update Share tools colours and add reactions | 
 | 5.0.3 | Update Sport colours | 
