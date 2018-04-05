@@ -2,6 +2,7 @@
 
 | Version | Description |
 |---------|-------------|
+| 5.0.8 | Update social brand colours (Facebook, Pintrest, Twitter, WhatsApp, YouTube) and add LinkedIn (colours brand compliant as of 5/4/18) | 
 | 5.0.7 | Added an additional colour to the Newsround colours | 
 | 5.0.6 | Added an additional colour to the Newsround colours | 
 | 5.0.5 | Add full palette of Newsround colours | 
