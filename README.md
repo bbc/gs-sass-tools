@@ -10,9 +10,19 @@ Grandstand Sass Tools is a collection of common Sass variables, functions and mi
 
 This library is built and maintained by the BBC Sport team and used by the [Grandstand Framework](http://bbc.github.io/bbc-grandstand/) and various components on BBC Sport website and within the BBC Live product.
 
-## Installation
 
-Grandstand Sass Tools can be installed using Bower:
+## Install using NPM (v6 and above)
+
+```bash
+$ npm install --save gs-sass-tools
+```
+
+```sass
+// your-app/main.scss
+@import 'node_modules/gs-sass-tools/sass-tools';
+```
+
+## Install using Bower (v5 and below)
 
 ```bash
 $ bower install --save gs-sass-tools
@@ -31,13 +41,13 @@ Grandstand Sass Tools is built on top of the GEL Foundations of:
 - [GEL Typography](https://github.com/bbc/gel-typography)
 - [GEL Grid](https://github.com/bbc/gel-grid)
 
-These three libraries are automatically included as part of this library and all of there functionality is available.
+These three libraries are automatically included as part of this library and all of their functionality is available.
 
 For specific details on any of these libraries please refer to their individual README files.
 
 ## Settings
 
-Settings are collections of globally available variables which can be used in your apps Sass.
+Settings are collections of globally available variables which can be used in your app's SCSS files.
 
 ### Global Variables
 The global variables are primarily formed of the [GEL Sass Tools](https://github.com/bbc/gel-sass-tools).
