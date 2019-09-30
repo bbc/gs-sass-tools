@@ -1,0 +1,38 @@
+{
+  "name": "gs-sass-tools",
+  "version": "6.0.0",
+  "description": "A collection of Sass Settings & Tools used by Grandstand",
+  "main": "_sass-tools.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbc/gs-sass-tools.git"
+  },
+  "keywords": [
+    "Sass",
+    "Tools",
+    "Settings",
+    "Grandstand",
+    "Sport",
+    "Live"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "../",
+    "test",
+    "tests"
+  ],
+  "author": "BBC",
+  "bugs": {
+    "url": "https://github.com/bbc/gs-sass-tools/issues"
+  },
+  "homepage": "https://github.com/bbc/gs-sass-tools",
+  "dependencies": {
+    "gel-grid": "^4.0.0",
+    "gel-sass-tools": "^1.2.1",
+    "gel-typography": "^2.0.5",
+    "sass-mq": "^5.0.1"
+  }
+}
