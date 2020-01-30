@@ -32,7 +32,7 @@
   "dependencies": {
     "gel-grid": "^4.0.0",
     "gel-sass-tools": "^1.2.1",
-    "gel-typography": "^2.0.5",
+    "gel-typography": "^3.0.0",
     "sass-mq": "^5.0.1"
   }
 }
