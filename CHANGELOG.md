@@ -2,6 +2,7 @@
 
 | Version | Description                                                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 6.0.1   | Upgrade gel-typography to latest 
 | 6.0.0   | Use NPM instead of Bower (unsupported)                                                                                               |
 | 5.0.8   | Update social brand colours (Facebook, Pintrest, Twitter, WhatsApp, YouTube) and add LinkedIn (colours brand compliant as of 5/4/18) |
 | 5.0.7   | Added an additional colour to the Newsround colours                                                                                  |
