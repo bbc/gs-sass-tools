@@ -1,12 +1,12 @@
 {
   "name": "gs-sass-tools",
-  "version": "5.0.9",
-  "homepage": "https://github.com/bbc/gs-sass-tools",
-  "authors": [
-    "Shaun Bent <shaun.bent@bbc.co.uk>"
-  ],
+  "version": "6.0.1",
   "description": "A collection of Sass Settings & Tools used by Grandstand",
   "main": "_sass-tools.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbc/gs-sass-tools.git"
+  },
   "keywords": [
     "Sass",
     "Tools",
@@ -24,9 +24,15 @@
     "test",
     "tests"
   ],
+  "author": "BBC",
+  "bugs": {
+    "url": "https://github.com/bbc/gs-sass-tools/issues"
+  },
+  "homepage": "https://github.com/bbc/gs-sass-tools",
   "dependencies": {
-    "gel-sass-tools": "^1.0.0",
-    "gel-typography": "^2.0.0",
-    "gel-grid": "^3.0.0"
+    "gel-grid": "^4.0.0",
+    "gel-sass-tools": "^1.2.1",
+    "gel-typography": "^3.0.0",
+    "sass-mq": "^5.0.1"
   }
 }
